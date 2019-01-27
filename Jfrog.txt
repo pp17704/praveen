@@ -1,0 +1,4 @@
+http://localhost:8040
+username : admin
+password : password
+
